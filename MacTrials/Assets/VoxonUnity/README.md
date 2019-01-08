@@ -1,2 +1,0 @@
-# VoxonUnity
-Voxon Unity Integration
