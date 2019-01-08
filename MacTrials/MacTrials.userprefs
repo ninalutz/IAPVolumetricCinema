@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VoxonUnity/src/dll_interface/VoxieHelper.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VoxonUnity/src/capture/VoxieCaptureVolume.cs">
     <Files>
-      <File FileName="Assets/VoxonUnity/src/capture/VoxieCaptureVolume.cs" Line="554" Column="1" />
-      <File FileName="Assets/VoxonUnity/src/dll_interface/VoxieHelper.cs" Line="164" Column="2" />
+      <File FileName="Assets/VoxonUnity/src/capture/VoxieCaptureVolume.cs" Line="168" Column="54" />
+      <File FileName="Assets/VoxonUnity/src/dll_interface/VoxieHelper.cs" Line="156" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
