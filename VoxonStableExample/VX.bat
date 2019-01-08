@@ -1,0 +1,1 @@
+start exampleProject.exe -batchmode
