@@ -1,1 +1,2 @@
 # IAPVolumetricCinema
+This is the collection of code and files for the IAP Volumetric Cinema Workshop taught at the MIT Media Lab by Professor Michael Bove and Professor David Levinne. VoxonStableExample credit to Aubrey Simonson. Code modified and currated by Nina Lutz.
