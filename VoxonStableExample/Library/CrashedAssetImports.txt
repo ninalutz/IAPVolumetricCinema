@@ -1,1 +1,0 @@
-Assets/VoxonUnity/examples/Scenes/2_ComplexMesh/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png
