@@ -1,0 +1,1 @@
+start MyCoolVoxonTest.exe -batchmode
