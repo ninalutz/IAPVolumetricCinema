@@ -1,1 +1,1 @@
-start MyFirstProject.exe -batchmode
+start MyFirstProject3.exe -batchmode
