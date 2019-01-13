@@ -1,0 +1,1 @@
+start MyFirstProject.exe -batchmode
