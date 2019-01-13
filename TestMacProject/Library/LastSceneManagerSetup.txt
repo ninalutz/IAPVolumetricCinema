@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Tree.unity
-  isLoaded: 1
-  isActive: 1
