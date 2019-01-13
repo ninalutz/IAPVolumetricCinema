@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="EmilyFluidTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\VoxonUnity\src\mesh_processing\Component.cs">
+    <Files>
+      <File FileName="Assets\VoxonUnity\src\capture\VoxieCaptureVolume.cs" Line="249" Column="1" />
+      <File FileName="Assets\VoxonUnity\src\mesh_processing\Component.cs" Line="415" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
