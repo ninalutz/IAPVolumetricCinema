@@ -1,1 +1,1 @@
-start test17.exe -batchmode
+start "" "SimpleExample.exe" -batchmode
